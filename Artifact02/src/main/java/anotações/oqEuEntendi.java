@@ -1,4 +1,4 @@
-package Anotações;
+package anotações;
 //Models: onde eu coloco as classes
 	//tipo o que terá no app, author, texto dele.
 
@@ -23,3 +23,5 @@ package Anotações;
 	//var nomeCriadoNoService = new nomeDoJava_File(Classe)
 		//No private|				|*Interface Não*
 	//Usa os Set, Get e Metodos.
+
+//Annotations: Components - Nunca em Interfaces
