@@ -17,7 +17,6 @@ package anotações;
 	//os objetos criados na interface e proxy
 		//usando this, mas nunca set e get
 			//cria um método
-			//Metodo: public String toString.
 
 //Main: Cria as vars de todos os packages
 	//var escolherNome = new AnnotationConfigApplicationContext(nomeClasse.class)
@@ -27,4 +26,11 @@ package anotações;
 						//se usar lógica em outros packages
 	//Usa os Set, Get e Metodos.
 
+//@Qualifier("nome") no próprio component - Quando tem mais que 1
+	//Também usa antes do nome da Interface no Services(no this)
+
+//@Service: no package serviços
+//@Component: no package repositorios
+//Metodo: public String toString.
 //Annotations: Components - Nunca em Interfaces
+//Instancias: new Person
