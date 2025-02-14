@@ -20,8 +20,11 @@ package anotações;
 			//Metodo: public String toString.
 
 //Main: Cria as vars de todos os packages
-	//var nomeCriadoNoService = new nomeDoJava_File(Classe)
-		//No private|				|*Interface Não*
+	//var escolherNome = new AnnotationConfigApplicationContext(nomeClasse.class)
+	//var escolherNome = new nomeClasse()
+						//se não usar muita lógica 
+	//var escolherNome = config.getBean(nomeClasse.class)
+						//se usar lógica em outros packages
 	//Usa os Set, Get e Metodos.
 
 //Annotations: Components - Nunca em Interfaces
